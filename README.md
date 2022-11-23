@@ -9,3 +9,5 @@ Aufgabe 3:
 [Urogallo_Low_Fid.pdf](https://github.com/lauramgr/IFD/files/9975854/Urogallo_Low_Fid.pdf)
 Video: https://user-images.githubusercontent.com/56912363/200962750-c246d188-c82a-4299-a460-dd08aedc3e3c.mp4
 
+Aufgabe 4:
+[Contextual_Inquiry_Urogallo_Low_fid_testing.pdf](https://github.com/lauramgr/IFD/files/10079799/Contextual_Inquiry_Urogallo_Low_fid_testing.pdf)
